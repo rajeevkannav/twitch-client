@@ -1,0 +1,11 @@
+{
+  "main.js": "/twitch-client/static/js/main.d36cd229.chunk.js",
+  "main.js.map": "/twitch-client/static/js/main.d36cd229.chunk.js.map",
+  "runtime~main.js": "/twitch-client/static/js/runtime~main.2866d897.js",
+  "runtime~main.js.map": "/twitch-client/static/js/runtime~main.2866d897.js.map",
+  "static/js/2.bb377a9f.chunk.js": "/twitch-client/static/js/2.bb377a9f.chunk.js",
+  "static/js/2.bb377a9f.chunk.js.map": "/twitch-client/static/js/2.bb377a9f.chunk.js.map",
+  "index.html": "/twitch-client/index.html",
+  "precache-manifest.fdfc1481e12798bf71d69b10864c688e.js": "/twitch-client/precache-manifest.fdfc1481e12798bf71d69b10864c688e.js",
+  "service-worker.js": "/twitch-client/service-worker.js"
+}
