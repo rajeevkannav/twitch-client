@@ -1,11 +1,11 @@
 {
-  "main.js": "/twitch-client/static/js/main.d36cd229.chunk.js",
-  "main.js.map": "/twitch-client/static/js/main.d36cd229.chunk.js.map",
+  "main.js": "/twitch-client/static/js/main.5ab123ea.chunk.js",
+  "main.js.map": "/twitch-client/static/js/main.5ab123ea.chunk.js.map",
   "runtime~main.js": "/twitch-client/static/js/runtime~main.2866d897.js",
   "runtime~main.js.map": "/twitch-client/static/js/runtime~main.2866d897.js.map",
-  "static/js/2.bb377a9f.chunk.js": "/twitch-client/static/js/2.bb377a9f.chunk.js",
-  "static/js/2.bb377a9f.chunk.js.map": "/twitch-client/static/js/2.bb377a9f.chunk.js.map",
+  "static/js/2.981ee641.chunk.js": "/twitch-client/static/js/2.981ee641.chunk.js",
+  "static/js/2.981ee641.chunk.js.map": "/twitch-client/static/js/2.981ee641.chunk.js.map",
   "index.html": "/twitch-client/index.html",
-  "precache-manifest.fdfc1481e12798bf71d69b10864c688e.js": "/twitch-client/precache-manifest.fdfc1481e12798bf71d69b10864c688e.js",
+  "precache-manifest.d2a1395246a38277354b5c71fbedb234.js": "/twitch-client/precache-manifest.d2a1395246a38277354b5c71fbedb234.js",
   "service-worker.js": "/twitch-client/service-worker.js"
 }
