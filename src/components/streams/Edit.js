@@ -21,7 +21,6 @@ class Edit extends React.Component {
 
         return (
             <div>
-                <h4>{this.props.stream.title}</h4>
                 <h3>Edit a Stream</h3>
                 <Form initialValues={
                     _.pick(this.props.stream, 'title', 'description')
