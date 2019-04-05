@@ -15,8 +15,13 @@ class Edit extends React.Component {
     };
 
     render() {
+        if(!this.props.stream){
+            return <div>Loading ..</div>;
+        }
+
         return (
             <div>
+                <h4>{this.props.stream.title}</h4>
                 <h3>Edit a Stream</h3>
                 <Form initialValues={
                     _.pick(this.props.stream, 'title', 'description')
